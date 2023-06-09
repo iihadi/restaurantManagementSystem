@@ -3,12 +3,12 @@ const bodyParser = require('body-parser');
 const mysql = require('mysql');
 
 
-const connection = mysql.createConnection({
-    host: 'eu-cdbr-west-02.cleardb.net',
-    user: 'b5af0859c0faaa',
-    password: '0127196f',
-    database: 'heroku_f930aca5c566b3d'
-});
+// const connection = mysql.createConnection({
+//     host: 
+//     user: 
+//     password: 
+//     database: 
+// });
 
 
 
