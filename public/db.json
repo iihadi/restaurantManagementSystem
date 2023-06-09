@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Burrito",
+      "price": 5.99,
+      "type": "Main",
+      "calories":  400,
+      "allergen": ["gluten"],
+      "description": "Consists of a flour tortilla wrapped or folded around a filling. Mexican rice, refried beans, and meat are the most common fillings of a burrito."
+
+    },
+    {
+      "id": 2,
+      "title": "Carne Asada",
+      "price": 2.99,
+      "type": "Starter",
+      "calories": 150,
+      "description": "It is a roasted beef dish which mainly consists of thin cuts of beef. The meat can be marinated or lightly salted and then grilled."
+    },
+    {
+      "id": 3,
+      "title": "Quesadilla",
+      "price": 5.99,
+      "type": "Main",
+      "calories": 300,
+      "description": "Quesadilla is made of round tortilla, folded in half and filled with Oaxaca cheese, then cooked until the cheese has melted."
+    },
+    {
+      "id": 4,
+      "title": "Chilaquiles",
+      "price": 5.99,
+      "type": "Starter",
+      "calories": 450,
+      "description": "Chilaquiles is a popular traditional breakfast dish which features lightly fried corn tortillas cut into quarters and topped with green or red salsa."
+    },
+    {
+      "id": 5,
+      "title": "Sprite",
+      "price": 0.89,
+      "type": "Drink",
+      "calories": 100,
+      "description": "Cool, refreshing sprite"
+    },
+    {
+      "id": 6,
+      "title": "Taco",
+      "price": 4.99,
+      "type": "Main",
+      "calories": 600,
+      "description": " It is a traditional Mexican dish composed of a corn or wheat tortilla folded or rolled around a filling."
+    },
+    {
+      "id": 7,
+      "title": "Water",
+      "price": 1.99,
+      "type": "Drink",
+      "calories": 0,
+      "description": "Highland spring water served bottled"
+    }
+  ]
+}

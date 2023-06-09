@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+    position: fixed;
+    height: 100%;
+    overflow-y: hidden;
+}
+
+.App-header {
+    background-color: white;
+    min-height: 100vh;
+    display: flex;
+    
+    font-size: calc(10px + 2vmin);
+    color: black;
+    zoom: 50%
+}
+
+.App-link {
+    color: #54241C;
+}
+
+
